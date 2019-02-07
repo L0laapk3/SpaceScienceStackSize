@@ -1,0 +1,12 @@
+{
+    "name": "L0laapk3_SpaceScienceStackSize",
+    "version": "1.0.0",
+    "title": "Space Science Stack Size Fix",
+    "author": "L0laapk3",
+    "contact": "https://github.com/L0laapk3/",
+    "homepage": "https://github.com/L0laapk3/SpaceScienceStackSize",
+    "description": "Sets the space science stack size to be the same as all the other science stack sizes.",
+    "license": "CC BY-NC-SA 4.0",
+    "factorio_version": "0.16",
+    "dependencies": []
+}
